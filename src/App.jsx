@@ -34,7 +34,7 @@ function App() {
 
   return (
     <>
-    <Dropdown1/>
+    {/* <Dropdown1/>  */}
       <RouterProvider router={route}></RouterProvider>
     </>
   );
